@@ -1,19 +1,5 @@
-# Clase7-Uzcategui
-# Clase 7 Primera Entrega del Proyecto Final
-## Routing y Navegación
-##### El proyecto es una aplicación react sencilla, que reproduce la funcionalidad básica de un ecommerce "Carrito de compras", hasta el momento se han implementado las funcionalidades correspondientes a la barra de navegación, las diferentes opciones de la barra contienen navegacion a diferentes categorias del catalogo así como a algunas páginas agregadas por mi como lo son la de "error 404" y la página "about", se definió un json de datos para simular la conexion a los datos persistentes, sin embargo se usa promesas para leer el archivo json y cargar la data en la aplicación, el catalogo se muestra mediante componentes contenedor/items los cuales al ser iterados mediante map construyen cada producto, se esta usando la libreria Materia UI "MUI", y como lenguaje de codificacion Typescript.  
-##
-
-#### El proyecto incluye lo siguiente...
- 1. Se implementa el uso de la libreria "react-router-dom" ✅
- 2. Se implementa el uso de BrowserRouter, Routes, Route ✅
- 3. Se colocan los diferentes paths de la barra de navegacion ✅
- 4. Se realiza la logica para redefinir los diferentes productos segun la categoria ✅
- 5. se pasan parametros en el path para obtener informacion ✅
- 6. se usa el hook useParams para determinar los valores que se envian en el path ✅
- 7. se implementa el uso de promesas para la obtencio de datos ✅
- 8. se usa la separacion de responsabilidades de componentes ✅
-
+# Clase8-Uzcategui
+# Clase 8 Entregable sincronizacion componente ItemCount
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
