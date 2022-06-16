@@ -118,9 +118,6 @@ const ItemCount: React.FC<IitemStock> = ({ stockAvailable, onAdd }) => {
           Agregar al Carrito
         </Button>
       </Box>
-      <Box>
-
-      </Box>
       <Stack spacing={2} sx={{ width: "100%" }}>
         <Snackbar
           open={open}
